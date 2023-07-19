@@ -9,3 +9,5 @@ This repo will holds the files that are necessary for the Cloud Native Architect
 5) Run 'docker-compose -f run_working.yaml up' or 'docker-compose -f run_working.yaml up -d'
 
    This will start run the wordpress and db container image.
+
+# Version
